@@ -1,0 +1,197 @@
+id: IF441FF44
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T21:03:20.901566'
+last_modified: '2022-05-30T21:03:20.901591'
+parser: null
+source_metadata:
+  title: Jamgön Kongtrul Lodrö Thaye Series
+  language: fr
+  description: Works by or about the great nineteenth century master Jamgön Kongtrul
+    Lodrö Thaye ('jam mgon kong sprul blo gros mtha' yas, 1813–1899), one of the pioneers
+    of the Rimé movement
+  volume:
+    f8F38:
+      title: Advice to Lhawang Tashi
+      base_file: f8F38.txt
+      order: 1
+      parent: Advice
+    fEABC:
+      title: Mahāmudrā Preliminaries, Main Part & Conclusion
+      base_file: fEABC.txt
+      order: 2
+      parent: Advice
+    fFD9A:
+      title: 'Mahāmudrā: the Swift Way to Become a Lord of Realization'
+      base_file: fFD9A.txt
+      order: 3
+      parent: Advice
+    f15EE:
+      title: The Kusāli's Instruction on the Nature of Mind
+      base_file: f15EE.txt
+      order: 4
+      parent: Advice
+    fAD14:
+      title: Prayer for Peace and Stability in Tibet
+      base_file: fAD14.txt
+      order: 5
+      parent: Aspiration Prayers
+    f4FBB:
+      title: The Aspiration of the Vajradhātu Maṇḍala
+      base_file: f4FBB.txt
+      order: 6
+      parent: Aspiration Prayers
+    fEF7F:
+      title: The Indestructible Vajra Garland, An Aspiration Prayer for the Lives
+        of the Supreme Holders of the Non-Sectarian Teachings
+      base_file: fEF7F.txt
+      order: 7
+      parent: Aspiration Prayers
+    f4466:
+      title: 'A Garland of Vajra Gems: The Life and Liberation of the Guru'
+      base_file: f4466.txt
+      order: 8
+      parent: Biography
+    fA8E8:
+      title: Biography of Jamgön Kongtrul Lodrö Thaye
+      base_file: fA8E8.txt
+      order: 9
+      parent: Biography
+    f1CB1:
+      title: The Life and Liberation of Padmākara, the Second Buddha from A Precious
+        Garland of Lapis Lazuli
+      base_file: f1CB1.txt
+      order: 10
+      parent: Biography
+    fE33F:
+      title: 'Calling the Guru From Afar: A Prayer to Pierce the Heart with Devotion'
+      base_file: fE33F.txt
+      order: 11
+      parent: Calling the Guru From Afar
+    f4E18:
+      title: 'The Hook of Compassion: Calling the Guru from Afar'
+      base_file: f4E18.txt
+      order: 12
+      parent: Calling the Guru From Afar
+    fFAA6:
+      title: Ārya Mañjuśrī Tantra Garbha—commentary
+      base_file: fFAA6.txt
+      order: 13
+      parent: Commentaries
+    fCC63:
+      title: 'The Cascading Essence of Great Bliss: An Empowerment Ritual for the
+        Female Practice of the Queen of Great Bliss, from the Heart-Essence of the
+        Vast Expanse'
+      base_file: fCC63.txt
+      order: 14
+      parent: Empowerment Rites
+    f9F28:
+      title: 'Jewels of Many Colours: Ordinary Fire Pūjas for the Four Activities
+        Based on a Single Substance to Easily Conclude Approach and Accomplishment'
+      base_file: f9F28.txt
+      order: 15
+      parent: Fire Offering
+    f370F:
+      title: The Prayer of the Tenth Days in Guru Rinpoche’s Life Story entitled ‘The
+        Nucleus of Blessings’
+      base_file: f370F.txt
+      order: 16
+      parent: Guru Rinpoche Prayers
+    fB529:
+      title: Prayer to the Lineage of the Great Chetsün’s Profound Essence of Vimala
+      base_file: fB529.txt
+      order: 17
+      parent: Lineage Prayers
+    fE38D:
+      title: Prayer to the Lineage of the Great Chetsün’s Profound Essence of Vimala
+      base_file: fE38D.txt
+      order: 18
+      parent: Lineage Prayers
+    f583A:
+      title: 'The Fount of Longevity: The Chimé Pakmé Nyingtik Lineage Prayer'
+      base_file: f583A.txt
+      order: 19
+      parent: Lineage Prayers
+    f9BAB:
+      title: A Short Supplication to Tārā
+      base_file: f9BAB.txt
+      order: 20
+      parent: Prayers
+    fB35D:
+      title: Prayer to Jamgön Kongtrul Lodrö Thayé
+      base_file: fB35D.txt
+      order: 21
+      parent: Prayers
+    f3781:
+      title: Prayer to Jamyang Khyentse Wangpo
+      base_file: f3781.txt
+      order: 22
+      parent: Prayers
+    fFA84:
+      title: Prayer to Jamyang Khyentse Wangpo, Jamgön Kongtrul and Jamyang Khyentse
+        Chökyi Lodrö
+      base_file: fFA84.txt
+      order: 23
+      parent: Prayers
+    f56C5:
+      title: Prayer to Khyentse Wangpo, Kongtrul and Chokgyur Lingpa
+      base_file: f56C5.txt
+      order: 24
+      parent: Prayers
+    fAF8B:
+      title: Prayer to Orgyen Jigme Chökyi Wangpo
+      base_file: fAF8B.txt
+      order: 25
+      parent: Prayers
+    f4BBE:
+      title: 'The Melodious Sound of Gathering Auspiciousness: A Prayer Based on the
+        Liberational Life of the Omniscient Jamyang Khyentse Wangpo'
+      base_file: f4BBE.txt
+      order: 26
+      parent: Prayers
+    fFF85:
+      title: 'The Melodious Speech of Samantabhadra: A Prayer to the Glorious Master
+        Jamgön Kongtrul Thaye'
+      base_file: fFF85.txt
+      order: 27
+      parent: Prayers
+    f7CEE:
+      title: 'The Tambura’s Yearning Song of Devotion: A Prayer Summarizing Khandro
+        Yeshe Tsogyal’s Life and Liberation'
+      base_file: f7CEE.txt
+      order: 28
+      parent: Prayers
+    f07E7:
+      title: 'The Essence of Benefit and Happiness: A Method for Saving Lives'
+      base_file: f07E7.txt
+      order: 29
+      parent: Saving Lives
+    fA055:
+      title: Prayer for the Swift Rebirth of Jamyang Khyentse Wangpo
+      base_file: fA055.txt
+      order: 30
+      parent: Swift Rebirth Prayers
+    fC44C:
+      title: Prayer to Kongtrul Yönten Gyatso
+      base_file: fC44C.txt
+      order: 31
+      parent: Swift Rebirth Prayers
+    f3BD3:
+      title: 'Music to Adorn the Illusory Display: A Concise Explanation of the Nature
+        of the Feast Offering'
+      base_file: f3BD3.txt
+      order: 32
+      parent: Tsok
+    fA57A:
+      title: Vajrakīla Tsok Prayer from Sangtik Korsum
+      base_file: fA57A.txt
+      order: 33
+      parent: Tsok
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
